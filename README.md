@@ -8,6 +8,7 @@ I have used this app to track my code hours while working on this app as well as
 # Screenshot
 ![Alt text](Screenshots/img1.png?raw=true "Studistics")
 ![Alt text](Screenshots/img2.png?raw=true "Studistics")
+>BTW the data represented by the graphs on the screenshots is totally random and share no correlation with reality.😁
 
 ## Built With
 
@@ -24,4 +25,4 @@ I have used this app to track my code hours while working on this app as well as
 
 Please [contact](mailto:mearunprabhakar14@gmail.com) me if you're interested in contributing to this project as it's still in it's early stages.
 
-Happy Coding!
+Happy Coding!😊
